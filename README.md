@@ -5,7 +5,7 @@ How It Works
 2. Browse Results: The app fetches data from OMDb's API and displays a list of matching titles
 
 Tech Stack
-Backend: PHP with Laravel Framework
-Frontend: Blade Templating Engine for a modern, responsive design
-API Integration: OMDb API for accessing extensive movie data
-Database: MySQL (optional, for favourites and user watchlists)
+1. Backend: PHP with Laravel Framework
+2. Frontend: Blade Templating Engine for a modern, responsive design
+3. API Integration: OMDb API for accessing extensive movie data
+4. Database: MySQL 
